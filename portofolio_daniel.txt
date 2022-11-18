@@ -8,3 +8,15 @@ No. Telp              : 087828423111
 Status Nikah          : Belum menikah
 Hobi                  : Membaca buku, Bermain bulutangkis, Bermain game, Menonoton Youtube
 Cita-cita             : Menjadi orang sukses
+
+Pendidikan
+- Pernah beresekolah di SD Putra Nirmala Cirebon
+- Pernah bersekolah di SMP BPK Penabur Cirebon
+- Pernah bersekolah di SMA BPK Penabur Cirebon
+- Berkuliah di UNIKA Soegijapranata
+
+Keterampilan
+^ Pemrograman
+  - Menguasai PHP
+  - Menguasai C dan C++
+  - Menguasai C# 
