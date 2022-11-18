@@ -19,3 +19,6 @@ Keterampilan
 ^ Pemrograman
   - Menguasai PHP
   - Menguasai C dan C++
+
+Pencapaian
+^ Meraih Rank Mythic di Mobile Legend
